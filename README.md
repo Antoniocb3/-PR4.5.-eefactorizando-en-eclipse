@@ -4,6 +4,14 @@ En Eclipse la refactorización queda resumida en el menú Refactor. Documenta, a
 
 **1. Renombrar métodos**
 
+Le damos click derecho sobre el método, Refactor > Extract Method...
+![?](imagenes/img1.PNG)
+
+Escribimos el nuevo nombre que queramos darle al método y le damos a "OK" para que se realice el cambio
+![?](imagenes/img1.2.PNG)
+
+Podemos ver como en todos los métodos que antes se llamaban "estaMuerto" ahora se llaman "redEstaMuerto"
+![?](imagenes/img1.3.PNG)
 
 
 **2. Renombrar paquetes**
