@@ -16,14 +16,39 @@ Podemos ver como en todos los métodos que antes se llamaban "estaMuerto" ahora 
 
 **2. Renombrar paquetes**
 
+Le damos en el paquete click derecho y:
+![?](imagenes/img2.PNG)
+
+Ponemos el nuevo nombre que queramos darle al paquete
+![?](imagenes/img2.1.PNG)
+
+Podemos observar como se ha cambiado el nombre tanto en el paquete como en los documentos que usan ese paquete de referencia
+![?](imagenes/img2.2.PNG)
+
 
 
 **3. Encapsula campo**
 
+Click derecho sobre el campo que queramos encapsular y:
+![?](imagenes/img3.PNG)
+
+Seleccionamos si queremos los setters, los getters, o ambos
+![?](imagenes/img3.1.PNG)
+
+Podemos observar como ha emcapsulado el peso (antes era simplemente peso++/peso--)
+![?](imagenes/img3.3.PNG)
 
 
 **4. Extrae clase**
 
+Click derecho en el documento y:
+![?](imagenes/img4.PNG)
+
+Extraemos la clase con los datos que veamos convenientes
+![?](imagenes/img4.1.PNG)
+
+Podemos ver como nos genera otro documento con el nombre que le hemos dado y con los datos que hemos escogido
+![?](imagenes/img4.2.PNG)
 
 
 **5. Extrae interface**
