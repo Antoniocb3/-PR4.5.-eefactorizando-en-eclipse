@@ -107,6 +107,13 @@ Observamos como cambia la structura a "string (nombre que le hayamos dado) = "(e
 
 **9. Todo en una línea (inlining)**
 
+![?](imagenes/img9.PNG)
+
+
+![?](imagenes/img9.1.PNG)
+
+
+![?](imagenes/img9.2.PNG)
 
 
 **10. Subir/bajar (pull up/push down)**
