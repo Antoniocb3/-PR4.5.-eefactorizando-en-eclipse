@@ -4,14 +4,15 @@ En Eclipse la refactorización queda resumida en el menú Refactor. Documenta, a
 
 **1. Renombrar métodos**
 
-Le damos click derecho sobre el método, Refactor > Extract Method...
-![?](imagenes/img1.PNG)
+Click derecho en el método a extraer/renombrar y:
+![?](imagenes/img7.PNG)
 
-Escribimos el nuevo nombre que queramos darle al método y le damos a "OK" para que se realice el cambio
-![?](imagenes/img1.2.PNG)
+Elegimos el nuevo nombre:
+![?](imagenes/img7.1.PNG)
 
-Podemos ver como en todos los métodos que antes se llamaban "estaMuerto" ahora se llaman "redEstaMuerto"
-![?](imagenes/img1.3.PNG)
+Podemos ver como se ha cambiado
+![?](imagenes/img7.2.PNG)
+
 
 
 **2. Renombrar paquetes**
@@ -78,15 +79,30 @@ Antes aquí nos salía el valor de la constante (1), ahora nos sale el nombre qu
 ![?](imagenes/img6.3.PNG)
 
 
-
-
-
 **7. Extrae método**
 
+Le damos click derecho sobre el método, Refactor > Extract Method...
+![?](imagenes/img1.PNG)
+
+Escribimos el nuevo nombre que queramos darle al método y le damos a "OK" para que se realice el cambio
+![?](imagenes/img1.2.PNG)
+
+Podemos ver como en todos los métodos que antes se llamaban "estaMuerto" ahora se llaman "redEstaMuerto"
+![?](imagenes/img1.3.PNG)
 
 
 **8. Extrae variable local**
 
+Seleccionamos nuestra variable:
+![?](imagenes/img8.PNG)
+
+
+Elegimos el nombre que consideremos mas apropiado
+![?](imagenes/img8.1.PNG)
+
+
+Observamos como cambia la structura a "string (nombre que le hayamos dado) = "(el mensaje)", y ademas lanza una excepcion
+![?](imagenes/img8.2.PNG)
 
 
 **9. Todo en una línea (inlining)**
