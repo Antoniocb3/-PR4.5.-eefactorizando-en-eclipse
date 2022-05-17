@@ -44,7 +44,7 @@ Podemos observar como ha emcapsulado el peso (antes era simplemente peso++/peso-
 Click derecho en el documento y:
 ![?](imagenes/img4.PNG)
 
-Extraemos la clase con los datos que veamos convenientes
+Extraemos la clase con los datos que decidamos
 ![?](imagenes/img4.1.PNG)
 
 Podemos ver como nos genera otro documento con el nombre que le hemos dado y con los datos que hemos escogido
@@ -53,9 +53,31 @@ Podemos ver como nos genera otro documento con el nombre que le hemos dado y con
 
 **5. Extrae interface**
 
+Click derecho en el documento y:
+![?](imagenes/img5.PNG)
+
+Extraemos la interfaz con el nombre y datos que decidamos
+![?](imagenes/img5.1.PNG)
+
+Podemos observar como nos genera otro documento con el nombre y datos que hemos asignado
+![?](imagenes/img5.2.PNG)
 
 
 **6. Extrae constante**
+
+Seleccionamos el dato que queramos tomar como constante (normalmente es un dato que se vaya a repetir varias veces, asi cuando queramos cambiar su valor solo lo cambiamos en la constante, y ya afecta a todo el documento) y:
+![?](imagenes/img6.PNG)
+
+Le damos el nombre que encontremos mas adecuado:
+![?](imagenes/img6.1.PNG)
+
+Podemos observar como al inicio de nuestro documento nos sale la constante y su valor
+![?](imagenes/img6.2.PNG)
+
+Antes aquí nos salía el valor de la constante (1), ahora nos sale el nombre que le hemos asignado
+![?](imagenes/img6.3.PNG)
+
+
 
 
 
